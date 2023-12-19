@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your UDMURT Project</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff; /* LightSkyBlue */
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #008080; /* Teal */
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+        section {
+            padding: 2rem;
+        }
+        footer {
+            background-color: #008080; /* Teal */
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your UDMURT Project</h1>
+        <p>Explore our NFT collection and journey</p>
+    </header>
+    <section id="hotcase">
+        <h2>Hotcase</h2>
+        <p>Insert your hotcase details here.</p>
+    </section>
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <p>Share information about your NFT collection and milestones.</p>
+    </section>
+    <section id="descriptions">
+        <h2>Descriptions</h2>
+        <p>Provide detailed descriptions, goals, and roadmap of your UDMURT project.</p>
+    </section>
+    <footer>
+        <p>&copy; 2023 Your Name | Designed with passion</p>
+    </footer>
+</body>
+</html>
